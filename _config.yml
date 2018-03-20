@@ -29,7 +29,7 @@ navbar-links:
     - Projects: "projects"
     - Gists: "gists"
     - Guides: "guides"
-  CV: "curriculum"
+  CV: "https://www.linkedin.com/in/ntauthority/"
 
 # Favicon
 favicon: "/favicon.ico"

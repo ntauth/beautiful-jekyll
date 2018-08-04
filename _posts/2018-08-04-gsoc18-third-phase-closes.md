@@ -61,4 +61,4 @@ the first phase of the project. The changes have resulted in a complete overhaul
 is exactly the initial goal of `Modular YAMPL`. I'm very happy of the end result and I'm more than sure that YAMPL still has room for further
 improvements.
 
-This was my first ever attempt at **Google Summer of Code**: I'm 100% satisfacted and I hope I'll have the chance to participate next year too.
+This was my first ever attempt at **Google Summer of Code**: I'm 100% satisfied and I hope I'll have the chance to participate next year too.

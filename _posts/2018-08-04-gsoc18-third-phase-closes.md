@@ -38,6 +38,8 @@ of YAMPL. This allows to build the YAMPL library and its Python bindings in one 
 - Ported the bindings preserving the internal structures and interfaces, effectively ensuring backwards compatibility with existing 
 code consuming the Python bindings.
 
+All the changes are contained in [this](https://github.com/ntauth/yampl) repository.
+
 These are some of the technologies that were used for the improvement of YAMPL
 <table>
 <tr>
